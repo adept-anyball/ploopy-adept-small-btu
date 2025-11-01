@@ -18,6 +18,7 @@ There are 2 versions of the v5:
 
 - v5-slim-angled-34mm-full: a more squared versions, with the same screw style of the v4
 
+> [!IMPORTANT]
+> The **v5-slim-angled-34mm-rounded-full** requires different screws. **It uses 4x M2.5x7mm screws**.
+
 - v5-slim-angled-34mm-rounded-full: improved buttons, screws on the bottom (instead of on the sides) and more rounded corners.
-  > [!IMPORTANT]
-  > The v5-slim-angled-34mm-rounded-full requires different screws. **It uses 4x M2.5x7mm screws**.
