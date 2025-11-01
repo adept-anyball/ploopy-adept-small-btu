@@ -18,7 +18,7 @@ Even though the top part consists of 2 separate parts, it looks like a unibody p
 
 **The models print without the need of any support. Using supports will likely ruin the print, unless you really know what you are doing!**
 
-I have printed it in both PLA and PETG and both work fine. I have been using a 0.1mm layer height with good results.
+I have printed it in both PLA and PETG and both work fine. I recommended using a layer height of 0.2mm.
 
 Part #1 should be printed with the buttons facing the build plate (so upside-down), and the remaining parts should be printed in the regular orientation.
 

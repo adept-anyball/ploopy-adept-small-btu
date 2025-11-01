@@ -19,7 +19,9 @@ There are 4 versions:
 
 - [V4 Slim](./v4/): which has trackball supports for both 34mm and 38.1mm trackballs. It is a much slimmer version of the v3, with aesthetical improvements e.g. all front buttons have the same size. The top and bottom of the case are the same, whether you choose to use a 34mm or a 38.1mm trackball, but you need to choose the correct track ball support.
 
-I would obviously recommend going for the V4, but it is up to you to choose. You can find assembly instructions by browsing into the folder of each of the versions.
+- [V5 Slim Angled](./v5/): which has trackball supports for both 34mm trackballs. It builds on the V4, but has a 3 degree angle, which improves the buttons a lot.
+
+I would obviously recommend going for the V5, but it is up to you to choose. You can find assembly instructions by browsing into the folder of each of the versions.
 
 If you would like to user other bearings instead of BTUs, there are adapters available [here](https://github.com/adept-anyball/mod/tree/master/adapters).
 
